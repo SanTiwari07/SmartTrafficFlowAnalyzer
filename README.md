@@ -59,7 +59,7 @@ CEP_Dynamic_Traffic_Signal/
 ## Setup and Installation
 
 ### Prerequisites
-- Python 3.10+
+- Python 3.11+ (3.10 is end-of-life; Pillow 13 requires 3.11)
 - ESP32 microcontroller (optional, for hardware integration)
 - Windows OS (recommended for PowerShell scripts)
 
