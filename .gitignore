@@ -7,3 +7,12 @@ env.sample
 
 
 nul
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Local secrets
+.env
+.env.*
+!.env.example
